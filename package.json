@@ -1,0 +1,26 @@
+{
+"name": "performance-monitoringgmzaoshanghao998",
+"version": "1.0.0",
+"description": "We provide comprehensive performance monitoring tools to help you monitor the performance and status of the project in real time.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/mobleytreston/Performance-Monitoring.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "mobleytreston",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
